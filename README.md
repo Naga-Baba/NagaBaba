@@ -1,3 +1,3 @@
 # About me
-## NagaBaba
+## I'm NagaBaba
 ### New to coding and Ai
